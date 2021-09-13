@@ -14,6 +14,9 @@ function App() {
         <Route path="/generated">
           <GeneratedMeme />
         </Route>
+        <Route path="*">
+          <Meme />
+      </Route>
       </Switch>
     </>
   );
