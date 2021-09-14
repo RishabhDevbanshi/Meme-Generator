@@ -1,3 +1,24 @@
+# Project Description
+A meme generator react web app which allows user to make memes from meme templates by providing suitable captions. The generated meme can then be shared with friends and family. It uses ImgFlip API to get meme templates and generate meme from them. 
+
+<div class="row" style="display:flex">
+    <div class="col" style="flex: 50%; padding: 5px">
+    <img src="https://i.ibb.co/cCJdLqQ/m1.png" alt="sample-meme-template">
+    </div>
+    <div class="col" style="flex: 50%; padding: 5px">
+    <img src="https://i.ibb.co/BTGFwzB/m2.png" alt="sample-generated-meme">
+    </div>
+</div>
+
+# Project Link
+Meme App : https://meme007.netlify.app/
+
+# Tech Stack
+ReactJS, Netlify
+
+# API Link
+Imgflip API : https://imgflip.com/api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
